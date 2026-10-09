@@ -26,6 +26,7 @@ const OTHERS = [
    { title: "Dear Lachu", img: "/others/others-01.jpeg" },
    { title: "Pooja Ki Jawani", img: "/others/others-02.jpeg" },
    { title: "Vala", img: "/sd/sd-01.jpeg" },
+     { title: "Arike", img: "/sd/sd-003.jpeg" },
 
   
 ];
