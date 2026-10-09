@@ -28,14 +28,14 @@ export default function HomePage() {
             </h1>
             <div className="home__lede">
               <p>
-            No shortcuts. No filler. Every frame earns it.
+            No shortcuts. No filler. Instead of lets make something worth keeping.
               </p>
               <a className="home__scroll" href="#works">
                 View works →
               </a>
             </div>
           </div>
-        </section>
+        </section> 
 
         <Service />
         <Work />

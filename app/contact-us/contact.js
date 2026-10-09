@@ -12,7 +12,7 @@ export default function Contact() {
       <div className="home__contact">
         <div>
           <p className="home__pitch">
-            Let&apos;s make <em>something</em> worth keeping.
+        Pictures you’ve seen. Feelings you haven’t.
           </p>
         </div>
 
