@@ -18,6 +18,8 @@ const CREW = [
      { name: "Manish T K", role: "Editor", img: "/team/ikka-1.jpeg" },
   { name: "Akhil Maloor", role: "Project coordinator"   , img: "/team/maloor-1.jpeg"},
 { name: "Sneha Uthaman", role: "Actress" , img: "/team/sneha-01.jpeg" },
+{ name: "Arunima Chandran R", role: "Operations" , img: "/team/mnc.jpeg" },
+{ name: "Edbin P Wilson", role: "Developer" , img: "/team/edbin.jpeg" },
  
 ];
 
