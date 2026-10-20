@@ -20,6 +20,7 @@ const CREW = [
 { name: "Sneha Uthaman", role: "Actress" , img: "/team/sneha-01.jpeg" },
 { name: "Arunima Chandran R", role: "Operations" , img: "/team/mnc.jpeg" },
 { name: "Edbin P Wilson", role: "Developer" , img: "/team/edbin.jpeg" },
+{ name: "Jobin JO", role: "Developer" , img: "/team/jobin.webp" },
  
 ];
 
